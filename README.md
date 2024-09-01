@@ -1,5 +1,5 @@
 # 🔢 MNIST Digit Classification | TF CNN - ACC 0.99
-![Uploading Asset 8.png…]()
+![Asset 8](https://github.com/user-attachments/assets/3cc056d3-23c5-40f2-a461-e7e126ba9d36)
 
 ## Overview
 This project aims to classify handwritten digits using a Convolutional Neural Network (CNN) implemented in TensorFlow. The model achieves an impressive accuracy of 99% on the MNIST dataset, which consists of grayscale images of digits from 0 to 9. This project is beginner-friendly, providing a solid introduction to deep learning techniques and their applications in image recognition.
